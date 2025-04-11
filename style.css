@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    padding: 10px;
+    width: 300px;
+  }
+  
+  #summary {
+    margin-top: 15px;
+    font-size: 14px;
+    white-space: pre-wrap;
+  }
+  
